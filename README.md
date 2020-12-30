@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on Data Warehouse and Apache Flink.
 🤔 I’m looking for a related career.
-📫 How to reach me: wechat 799392914 early
+📫 How to reach me: lijinxinok@163.com
