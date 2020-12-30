@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=fourgold&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-🔭 I’m currently working on Data Warehouse and Apache Flink /n
-🤔 I’m looking for a related career /n
+🔭 I’m currently working on Data Warehouse and Apache Flink.
+🤔 I’m looking for a related career.
 📫 How to reach me: wechat 799392914 early
