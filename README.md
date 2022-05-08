@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ECUST
 - 🌱 I’m currently a matser about Data Warehouse and Apache Flink
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for a related career
 - 💬 Ask me about Flink 
 - 📫 How to reach me: wechat 799392914 early
 - 😄 Pronouns: Master
