@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently a matser about Data Warehouse and Apache Flink
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about Flink 
-- 📫 How to reach me: wechat 799392914 early
+- 📫 How to reach me: wechat  early
 - 😄 Pronouns: Master
 - ⚡ Fun fact: ...
 -->
